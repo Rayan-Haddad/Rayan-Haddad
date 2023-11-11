@@ -77,3 +77,8 @@ Hello! I am a full-stack developer who loves learning new things. I like coding 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Rayan-Haddad/count.svg?"  />
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
