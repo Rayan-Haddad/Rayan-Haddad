@@ -77,3 +77,5 @@ Hello! I am a full-stack developer who loves learning new things. I like coding 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Rayan-Haddad/count.svg?"  />
 </div>
+
+![Snake animation](https://github.com/Rayan-Haddad/Rayan-Haddad/blob/output/github-contribution-grid-snake.svg)
