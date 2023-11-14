@@ -68,11 +68,6 @@ Hello! I am a full-stack developer who loves learning new things. I like coding 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rayan-Haddad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <br>
-<div align="center">
-  <a href="https://open.spotify.com/user/31uifkwtbjgz5dpyf42oa63wrgwe">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uifkwtbjgz5dpyf42oa63wrgwe&count=3&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 <hr>
 <div align="center">
   <img src="https://profile-counter.glitch.me/Rayan-Haddad/count.svg?"  />
